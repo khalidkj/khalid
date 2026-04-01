@@ -105,7 +105,7 @@ const i18n = {
         image:'', placeholder:'ED'
       },
       {
-        index:'02', title:'RAUL CÁRDABA', tag:'Disseny Web', year:'2025',
+        index:'02', title:'RAUL CÁRDABA', tag:'Disseny Web', year:'2026',
         client:'Raul Cárdaba (FruteroTiktokero)',
         role:'Disseny de landing page',
         tools:'Figma · fan-box.net',
@@ -123,7 +123,7 @@ const i18n = {
         image:'', placeholder:'ED'
       },
       {
-        index:'02', title:'RAUL CÁRDABA', tag:'Diseño Web', year:'2025',
+        index:'02', title:'RAUL CÁRDABA', tag:'Diseño Web', year:'2026',
         client:'Raul Cárdaba (FruteroTiktokero)',
         role:'Diseño de landing page',
         tools:'Figma · fan-box.net',
